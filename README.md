@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nishitatakkolu
-- 👀 I’m interested in collaborating with other developers
+- 👋 Hi, I’m @Nishita Takkolu
+- 👀 I’m interested in collaborating with other developers and learn from them
 - 🌱 I’m currently learning JavaScript Algorithms and Data Structures
 - 📫 How to reach me: nishitatakkolu@gmail.com
 
